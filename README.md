@@ -1,9 +1,9 @@
 ## Здравствуйте!
 # Я студент экономического факультета БГУ, ищу стажировку в аналитике данных
 ## Стек и инструменты
--**Языки:** PostgreSQL, Python(pandas, numpy, nltk)
--**Визуализация:** Power BI, Python(matplotlib, plotly, seaborn)
--**Прочее:** Excel, веб-скрапинг(Selenium)
+- **Языки:** PostgreSQL, Python(pandas, numpy, nltk)
+- **Визуализация:** Power BI, Python(matplotlib, plotly, seaborn)
+- **Прочее:** Excel, веб-скрапинг(Selenium)
 ## Навыки
 - Очистка, предобработка и агрегация данных
 - Анализ и визуализация данных, написание отчетов
