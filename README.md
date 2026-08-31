@@ -1,16 +1,33 @@
-## Hi there 👋
+## Здравствуйте!
+# Я студент экономического факультета БГУ, ищу стажировку в аналитике данных
 
-<!--
-**Kuzmichkin-M-A/Kuzmichkin-M-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Стек и инструменты
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Языки:** PostgreSQL, Python(pandas, numpy, nltk)
+**Визуализация:** Power BI, Python(matplotlib, plotly, seaborn)
+**Прочее:** Excel, веб-скрапинг(Selenium)
+
+---
+
+## Навыки
+
+- Очистка, предобработка и агрегация данных
+- Анализ и визуализация данных, написание отчетов
+- NLP-анализ(тональность, кластеризация тем, TF-IDF)
+- Веб-скрапинг(Selenium)
+
+---
+
+## Проекты
+
+- **[customer-reviews-nlp-analysis](https://github.com/Kuzmichkin-M-A/customer-reviews-nlp-analysis)** - Анализ отзывов клиентов: тональность, кластеризация тем и интерактивная визуализация 
+- **[data-analyst-diploma-project](https://github.com/Kuzmichkin-M-A/data-analyst-diploma-project)** - Дипломный проект курса аналитика данных Нетологии: «Анализ факторов увольнений (поиск инсайтов, составление рекомендаций стейкхолдерам)»
+- **[ultra-convenience-market-analysis](https://github.com/Kuzmichkin-M-A/ultra-convenience-market-analysis)** - Исследование малых форматов ритейла для B2B-медиа: веб-скрапинг, NLP-анализ и визуализация
+
+---
+
+## Сертификаты
+
+- Курс "Аналитик данных" - Нетология - 2 сентября 2025 — 23 марта 2026
